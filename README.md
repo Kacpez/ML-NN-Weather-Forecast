@@ -1,6 +1,6 @@
 # ML-NN-Weather-Forecast
 
-Ten projekt miał na celu przewidywanie warunków pogodowych za pomocą historycznych danych pogodowych pobranych z Kaggle. Zbiór danych obejmiał informacje pogodowe dla kilku miast.
+Ten projekt miał na celu przewidywanie warunków pogodowych za pomocą historycznych danych pogodowych pobranych z Kaggle. Zbiór danych obejmiał informacje pogodowe dla kilku miast, głównie w Stanch Zjednoczonych.
 
 ### Cel
 Głównym celem było opracowanie rozwiązania opartego na sieciach neuronowych, które wykorzystywało historyczne dane do prognozowania warunków pogodowych na kolejny dzień oraz trzy kolejne dni. Konkretnie, model miał przewidywać średnią temperaturę dzienną i prędkość wiatru na podstawie danych z trzech poprzednich dni, prognozując na kolejny dzień (+1D) oraz trzy kolejne dni (łącznie cztery prognozy).
@@ -20,7 +20,12 @@ Modele oceniano za pomocą następujących miar:
 * Indeks Porozumienia (IA)
 
 ### Implementacja
-Stworzono kilka modeli sztucznych sieci neuronowych wykorzystujących różne podejście uczenia. Mamy do czynienia z rekurencyjnymi, konwolucyjnymi czy zwykłymi MLP sieciami neuronowymi. 
+Stworzono kilka modeli sztucznych sieci neuronowych wykorzystujących różne podejście uczenia. Mamy do czynienia z rekurencyjnymi, konwolucyjnymi czy zwykłymi MLP sieciami neuronowymi. W implementacji wykorzystano Tensorflow wraz z innymi bibliotekami Pythona.
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow," />
+  </a>
+</p>
 ![image](https://github.com/Kacpez/ML-NN-Weather-Forecast/assets/84182940/a046f83b-fff9-4646-bce4-08a9ba402597)
 
 ### Wyniki Vancouver
