@@ -7,6 +7,7 @@ Głównym celem było opracowanie rozwiązania opartego na sieciach neuronowych,
 
 ### Podejście
 Zbudowano różne architektury sieci neuronowych, w tym perceptron wielowarstwowy (MLP), aby porównać ich wydajność. Porównanie oparto na miarach takich jak Błąd Średniokwadratowy (MSE), Średni Błąd Bezwzględny (MAE), kwadratowa korelacja Pearsona (R^2), Indeks Porozumienia (IA) i inne.
+![image](https://github.com/Kacpez/ML-NN-Weather-Forecast/assets/84182940/a046f83b-fff9-4646-bce4-08a9ba402597)
 
 ### Zbiór danych
 Zbiór danych zawierał:
@@ -21,12 +22,11 @@ Modele oceniano za pomocą następujących miar:
 
 ### Implementacja
 Stworzono kilka modeli sztucznych sieci neuronowych wykorzystujących różne podejście uczenia. Mamy do czynienia z rekurencyjnymi, konwolucyjnymi czy zwykłymi MLP sieciami neuronowymi. W implementacji wykorzystano Tensorflow wraz z innymi bibliotekami Pythona.
-<p >
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,tensorflow," />
   </a>
 </p>
-![image](https://github.com/Kacpez/ML-NN-Weather-Forecast/assets/84182940/a046f83b-fff9-4646-bce4-08a9ba402597)
 
 ### Wyniki Vancouver
 ![image](https://github.com/Kacpez/ML-NN-Weather-Forecast/assets/84182940/4f0a6f80-69a2-45b3-94e9-82aa05db8b71)
